@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
  
+
+    <dimen name="dimension_example">64dp</dimen> 
  
+
+    <dimen name="dimension_palette_magenta_number">0dp</dimen> 
 
     <dimen name="dimension_spacing_0">0dp</dimen>
     <dimen name="dimension_spacing_2">2dp</dimen>
