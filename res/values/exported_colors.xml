@@ -3,19 +3,6 @@
     <color name="white">#ffffffff</color>
 
 
-    <color name="palette_green_green_1100">#ff0e2a21</color>
-    <color name="palette_green_green_1000">#ff1c4130</color>
-    <color name="palette_green_green_900">#ff2d6944</color>
-    <color name="palette_green_green_800">#ff3c884d</color>
-    <color name="palette_green_green_700">#ff4ca45a</color>
-    <color name="palette_green_green_600">#ff5ab261</color>
-    <color name="palette_green_green_500">#ff78c767</color>
-    <color name="palette_green_green_400">#ff8fda75</color>
-    <color name="palette_green_green_300">#ffa9e297</color>
-    <color name="palette_green_green_200">#ffccf0c2</color>
-    <color name="palette_green_green_100">#ffddf3d9</color>
-    <color name="palette_green_green_0">#ffeef9ec</color>
-
     <color name="palette_blue_blue_1100">#ff082036</color>
     <color name="palette_blue_blue_1000">#ff18395d</color>
     <color name="palette_blue_blue_900">#ff245685</color>
@@ -157,6 +144,19 @@
     <color name="palette_magenta_magenta_200">#ffecc7f4</color>
     <color name="palette_magenta_magenta_100">#fff5e4fa</color>
     <color name="palette_magenta_magenta_0">#fffcf0fe</color>
+
+    <color name="palette_green_green_1100">#ff0e2a21</color>
+    <color name="palette_green_green_1000">#ff1c4130</color>
+    <color name="palette_green_green_900">#ff2d6944</color>
+    <color name="palette_green_green_800">#ff3c884d</color>
+    <color name="palette_green_green_700">#ff4ca45a</color>
+    <color name="palette_green_green_600">#ff5ab261</color>
+    <color name="palette_green_green_500">#ff78c767</color>
+    <color name="palette_green_green_400">#ff8fda75</color>
+    <color name="palette_green_green_300">#ffa9e297</color>
+    <color name="palette_green_green_200">#ffccf0c2</color>
+    <color name="palette_green_green_100">#ffddf3d9</color>
+    <color name="palette_green_green_0">#ffeef9ec</color>
 
 
     <!-- 
