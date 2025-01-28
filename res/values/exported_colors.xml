@@ -29,6 +29,32 @@
     <color name="palette_teal_teal_100">#ffd5f6ef</color>
     <color name="palette_teal_teal_0">#ffe9f8f5</color>
 
+    <color name="palette_yellow_yellow_1100">#ff2a1b08</color>
+    <color name="palette_yellow_yellow_1000">#ff4e2c0b</color>
+    <color name="palette_yellow_yellow_900">#ff8b4f1f</color>
+    <color name="palette_yellow_yellow_800">#ffb0772a</color>
+    <color name="palette_yellow_yellow_700">#ffd49b35</color>
+    <color name="palette_yellow_yellow_600">#fff6be41</color>
+    <color name="palette_yellow_yellow_500">#fff8ce4c</color>
+    <color name="palette_yellow_yellow_400">#fffad961</color>
+    <color name="palette_yellow_yellow_300">#fffbe17f</color>
+    <color name="palette_yellow_yellow_200">#fffbe9a4</color>
+    <color name="palette_yellow_yellow_100">#fffbeed1</color>
+    <color name="palette_yellow_yellow_0">#fffef8e4</color>
+
+    <color name="palette_magenta_magenta_1100">#ff271a2c</color>
+    <color name="palette_magenta_magenta_1000">#ff3f1a4e</color>
+    <color name="palette_magenta_magenta_900">#ff642a73</color>
+    <color name="palette_magenta_magenta_800">#ff854091</color>
+    <color name="palette_magenta_magenta_700">#ffa04da3</color>
+    <color name="palette_magenta_magenta_600">#ffb659b4</color>
+    <color name="palette_magenta_magenta_500">#ffcc6bd5</color>
+    <color name="palette_magenta_magenta_400">#ffe38aef</color>
+    <color name="palette_magenta_magenta_300">#ffe3b1ee</color>
+    <color name="palette_magenta_magenta_200">#ffecc7f4</color>
+    <color name="palette_magenta_magenta_100">#fff5e4fa</color>
+    <color name="palette_magenta_magenta_0">#fffcf0fe</color>
+
     <color name="palette_pink_pink_1100">#ff281821</color>
     <color name="palette_pink_pink_1000">#ff4f1930</color>
     <color name="palette_pink_pink_900">#ff872647</color>
@@ -70,32 +96,6 @@
     <color name="palette_orange_orange_200">#fff6c7a9</color>
     <color name="palette_orange_orange_100">#fff7ddce</color>
     <color name="palette_orange_orange_0">#fffceee4</color>
-
-    <color name="palette_yellow_yellow_1100">#ff2a1b08</color>
-    <color name="palette_yellow_yellow_1000">#ff4e2c0b</color>
-    <color name="palette_yellow_yellow_900">#ff8b4f1f</color>
-    <color name="palette_yellow_yellow_800">#ffb0772a</color>
-    <color name="palette_yellow_yellow_700">#ffd49b35</color>
-    <color name="palette_yellow_yellow_600">#fff6be41</color>
-    <color name="palette_yellow_yellow_500">#fff8ce4c</color>
-    <color name="palette_yellow_yellow_400">#fffad961</color>
-    <color name="palette_yellow_yellow_300">#fffbe17f</color>
-    <color name="palette_yellow_yellow_200">#fffbe9a4</color>
-    <color name="palette_yellow_yellow_100">#fffbeed1</color>
-    <color name="palette_yellow_yellow_0">#fffef8e4</color>
-
-    <color name="palette_magenta_magenta_1100">#ff271a2c</color>
-    <color name="palette_magenta_magenta_1000">#ff3f1a4e</color>
-    <color name="palette_magenta_magenta_900">#ff642a73</color>
-    <color name="palette_magenta_magenta_800">#ff854091</color>
-    <color name="palette_magenta_magenta_700">#ffa04da3</color>
-    <color name="palette_magenta_magenta_600">#ffb659b4</color>
-    <color name="palette_magenta_magenta_500">#ffcc6bd5</color>
-    <color name="palette_magenta_magenta_400">#ffe38aef</color>
-    <color name="palette_magenta_magenta_300">#ffe3b1ee</color>
-    <color name="palette_magenta_magenta_200">#ffecc7f4</color>
-    <color name="palette_magenta_magenta_100">#fff5e4fa</color>
-    <color name="palette_magenta_magenta_0">#fffcf0fe</color>
 
     <color name="palette_blue_blue_1100">#ff082036</color>
     <color name="palette_blue_blue_1000">#ff18395d</color>
