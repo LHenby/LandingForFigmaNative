@@ -1,4 +1,26 @@
 
 :root {
-    --measureDimension1: 1.5px;    
+    /* No radius */
+    --measureBorderRadiusBorderRadiusNone: 0px;    
+    --measureBorderRadiusBorderRadiusSmall: 3px;    
+    --measureBorderRadiusBorderRadiusDefault: 5px;    
+    --measureBorderRadiusBorderRadiusMedium: 7px;    
+    --measureBorderRadiusBorderRadiusLarge: 12px;    
+    /* Essentially a circle */
+    --measureBorderRadiusBorderRadiusFull: 999px;    
+    --measureSpaceSpacing0: 0px;    
+    --measureSpaceSpacing2: 2px;    
+    --measureSpaceSpacing4: 4px;    
+    --measureSpaceSpacing8: 8px;    
+    --measureSpaceSpacing12: 12px;    
+    --measureSpaceSpacing16: 16px;    
+    --measureSpaceSpacing20: 20px;    
+    --measureSpaceSpacing24: 24px;    
+    --measureSpaceSpacing28: 28px;    
+    --measureSpaceSpacing32: 32px;    
+    --measureSpaceSpacing36: 36px;    
+    --measureSpaceSpacing40: 40px;    
+    --measureDimensionSpacingSemanticStackGap: 1px;    
+    --measureOpacityOpacityDisabled: 50%;    
+    --measureDimensionShadowFocusRingWidth: 3px;    
 }
