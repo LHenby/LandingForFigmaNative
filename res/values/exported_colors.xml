@@ -55,48 +55,6 @@
     <color name="palette_magenta_magenta_100">#fff5e4fa</color>
     <color name="palette_magenta_magenta_0">#fffcf0fe</color>
 
-    <color name="palette_pink_pink_1100">#ff281821</color>
-    <color name="palette_pink_pink_1000">#ff4f1930</color>
-    <color name="palette_pink_pink_900">#ff872647</color>
-    <color name="palette_pink_pink_800">#ffa43b5b</color>
-    <color name="palette_pink_pink_700">#ffbe4466</color>
-    <color name="palette_pink_pink_600">#ffcf517c</color>
-    <color name="palette_pink_pink_500">#ffde638b</color>
-    <color name="palette_pink_pink_400">#ffee7fad</color>
-    <color name="palette_pink_pink_300">#fff19bc0</color>
-    <color name="palette_pink_pink_200">#fff4b8d4</color>
-    <color name="palette_pink_pink_100">#fff7dcea</color>
-    <color name="palette_pink_pink_0">#fffbeaf2</color>
-
-    <color name="palette_red_red_1100">#ff281212</color>
-    <color name="palette_red_red_1000">#ff641c18</color>
-    <color name="palette_red_red_900">#ff8d2d28</color>
-    <color name="palette_red_red_800">#ffb6403b</color>
-    <color name="palette_red_red_700">#ffca4b45</color>
-    <color name="palette_red_red_600">#ffdc584a</color>
-    <color name="palette_red_red_500">#ffe56a5b</color>
-    <color name="palette_red_red_400">#ffef8674</color>
-    <color name="palette_red_red_300">#fff1a193</color>
-    <color name="palette_red_red_200">#fff4bbb3</color>
-    <color name="palette_red_red_100">#fff8d7d3</color>
-    <color name="palette_red_red_0">#fffbebe9</color>
-
-    <color name="palette_orange_orange_1100">#ff2a140f</color>
-    <color name="palette_orange_orange_1000">#ff581d09</color>
-    <color name="palette_orange_orange_900">#ff8a341a</color>
-    <color name="palette_orange_orange_800">#ffbf5c29</color>
-    <color name="palette_orange_orange_700">#ffde763a</color>
-    <color name="palette_orange_orange_600">#ffe68246</color>
-    <color name="palette_orange_orange_500">#ffee8e53</color>
-    <color name="palette_orange_orange_400">#fff2a069</color>
-    <!-- 
-        This is our main color. And this description will show inside the documentation 
-    -->
-    <color name="palette_orange_orange_300">#fff4b388</color>
-    <color name="palette_orange_orange_200">#fff6c7a9</color>
-    <color name="palette_orange_orange_100">#fff7ddce</color>
-    <color name="palette_orange_orange_0">#fffceee4</color>
-
     <color name="palette_blue_blue_1100">#ff082036</color>
     <color name="palette_blue_blue_1000">#ff18395d</color>
     <color name="palette_blue_blue_900">#ff245685</color>
@@ -157,6 +115,48 @@
     <color name="palette_green_green_200">#ffccf0c2</color>
     <color name="palette_green_green_100">#ffddf3d9</color>
     <color name="palette_green_green_0">#ffeef9ec</color>
+
+    <color name="palette_pink_pink_1100">#ff281821</color>
+    <color name="palette_pink_pink_1000">#ff4f1930</color>
+    <color name="palette_pink_pink_900">#ff872647</color>
+    <color name="palette_pink_pink_800">#ffa43b5b</color>
+    <color name="palette_pink_pink_700">#ffbe4466</color>
+    <color name="palette_pink_pink_600">#ffcf517c</color>
+    <color name="palette_pink_pink_500">#ffde638b</color>
+    <color name="palette_pink_pink_400">#ffee7fad</color>
+    <color name="palette_pink_pink_300">#fff19bc0</color>
+    <color name="palette_pink_pink_200">#fff4b8d4</color>
+    <color name="palette_pink_pink_100">#fff7dcea</color>
+    <color name="palette_pink_pink_0">#fffbeaf2</color>
+
+    <color name="palette_red_red_1100">#ff281212</color>
+    <color name="palette_red_red_1000">#ff641c18</color>
+    <color name="palette_red_red_900">#ff8d2d28</color>
+    <color name="palette_red_red_800">#ffb6403b</color>
+    <color name="palette_red_red_700">#ffca4b45</color>
+    <color name="palette_red_red_600">#ffdc584a</color>
+    <color name="palette_red_red_500">#ffe56a5b</color>
+    <color name="palette_red_red_400">#ffef8674</color>
+    <color name="palette_red_red_300">#fff1a193</color>
+    <color name="palette_red_red_200">#fff4bbb3</color>
+    <color name="palette_red_red_100">#fff8d7d3</color>
+    <color name="palette_red_red_0">#fffbebe9</color>
+
+    <color name="palette_orange_orange_1100">#ff2a140f</color>
+    <color name="palette_orange_orange_1000">#ff581d09</color>
+    <color name="palette_orange_orange_900">#ff8a341a</color>
+    <color name="palette_orange_orange_800">#ffbf5c29</color>
+    <color name="palette_orange_orange_700">#ffde763a</color>
+    <color name="palette_orange_orange_600">#ffe68246</color>
+    <color name="palette_orange_orange_500">#ffee8e53</color>
+    <color name="palette_orange_orange_400">#fff2a069</color>
+    <!-- 
+        This is our main color. And this description will show inside the documentation 
+    -->
+    <color name="palette_orange_orange_300">#fff4b388</color>
+    <color name="palette_orange_orange_200">#fff6c7a9</color>
+    <color name="palette_orange_orange_100">#fff7ddce</color>
+    <color name="palette_orange_orange_0">#fffceee4</color>
 
 
     <!-- 
