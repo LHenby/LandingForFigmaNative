@@ -3,19 +3,6 @@
     <color name="white">#ffffffff</color>
 
 
-    <color name="palette_neutral_neutral_1100">#ff040404</color>
-    <color name="palette_neutral_neutral_1000">#ff182020</color>
-    <color name="palette_neutral_neutral_900">#ff293333</color>
-    <color name="palette_neutral_neutral_800">#ff384141</color>
-    <color name="palette_neutral_neutral_700">#ff545e5f</color>
-    <color name="palette_neutral_neutral_600">#ff70797a</color>
-    <color name="palette_neutral_neutral_500">#ff939a9b</color>
-    <color name="palette_neutral_neutral_400">#ffb1b6b7</color>
-    <color name="palette_neutral_neutral_300">#ffc9cccc</color>
-    <color name="palette_neutral_neutral_200">#ffdfe1e1</color>
-    <color name="palette_neutral_neutral_100">#fff3f4f4</color>
-    <color name="palette_neutral_neutral_0">#ffffffff</color>
-
     <color name="palette_teal_teal_1100">#ff0b2427</color>
     <color name="palette_teal_teal_1000">#ff1b3e3e</color>
     <color name="palette_teal_teal_900">#ff2a6461</color>
@@ -28,6 +15,19 @@
     <color name="palette_teal_teal_200">#ffc0f0e6</color>
     <color name="palette_teal_teal_100">#ffd5f6ef</color>
     <color name="palette_teal_teal_0">#ffe9f8f5</color>
+
+    <color name="palette_neutral_neutral_1100">#ff040404</color>
+    <color name="palette_neutral_neutral_1000">#ff182020</color>
+    <color name="palette_neutral_neutral_900">#ff293333</color>
+    <color name="palette_neutral_neutral_800">#ff384141</color>
+    <color name="palette_neutral_neutral_700">#ff545e5f</color>
+    <color name="palette_neutral_neutral_600">#ff70797a</color>
+    <color name="palette_neutral_neutral_500">#ff939a9b</color>
+    <color name="palette_neutral_neutral_400">#ffb1b6b7</color>
+    <color name="palette_neutral_neutral_300">#ffc9cccc</color>
+    <color name="palette_neutral_neutral_200">#ffdfe1e1</color>
+    <color name="palette_neutral_neutral_100">#fff3f4f4</color>
+    <color name="palette_neutral_neutral_0">#ffffffff</color>
 
     <color name="palette_yellow_yellow_1100">#ff2a1b08</color>
     <color name="palette_yellow_yellow_1000">#ff4e2c0b</color>
